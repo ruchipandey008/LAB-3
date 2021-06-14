@@ -1,7 +1,7 @@
-# LAB-2
+# LAB-3
 
 ## Instructions
- - Lab 2 is graded and submission is compulsory.
+ - Lab 3 is graded and submission is compulsory.
  - Code has to be done in MATLAB.
  - Clone this repository in your local machine.
  - <strong> Commit after the deadline will not be considered </strong>.
@@ -20,5 +20,11 @@
                
 
 ```                   
+## Additional Instructions
 
-## Deadline : 8/06/2021 by 11:59 PM
+- Commit scripts for all subparts of a question in the same script.
+- Commit that script with the format q<question number>_<team number>, for example for question 3.3 commit with the name q3_50.m .
+- Follow the given folder structure, place code inside code folder, results inside results folder, do not name separate folders for each question.
+- If these guidelines aren't met, you will receive penalties or those codes might not be evaluated.
+
+## Deadline : 15/06/2021 by 11:59 PM
